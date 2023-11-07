@@ -20,7 +20,7 @@ span{
     width: calc(100vw - 30px);
     color: #fff;
     text-shadow: none;
-    font-size: .7em;
+    font-size: .4em;
 }
 
 @keyframes blinker {
